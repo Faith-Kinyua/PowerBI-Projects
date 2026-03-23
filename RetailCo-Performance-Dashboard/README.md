@@ -70,6 +70,7 @@ Kano: 44%
 Clear visibility into which regions are driving growth and which need support.
 
 <b> Key Questions Answered </b>
+
 Which stores are meeting or missing their monthly targets?
 Which regions contribute the most to total revenue?
 Where should management focus attention this week?
