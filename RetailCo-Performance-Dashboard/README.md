@@ -46,7 +46,9 @@ Kano: 44%
 <b> How do discounts affect revenue? </b>
 A Revenue vs Discounts visual highlights how pricing decisions influence performance.
 </br>
+
 🏬 <b> Store Performance Dashboard </b>
+
 This dashboard focuses on operational efficiency, helping regional managers and the Sales Director quickly identify high‑performing and underperforming stores. It highlights revenue contribution, target achievement, and areas that require immediate attention.
 
 <b> Store Performance Dashboard </b>
@@ -54,7 +56,7 @@ This dashboard focuses on operational efficiency, helping regional managers and 
 <img width="853" height="488" alt="Store Performance" src="https://github.com/user-attachments/assets/78d9439b-692d-40bf-b15c-730a2fb7cc02" />
 
 </br>
-,b> What This Dashboard Shows </b>
+<b> What This Dashboard Shows </b>
 
 <b> Store Revenue Contribution </b>
 Lagos: $1.424bn
