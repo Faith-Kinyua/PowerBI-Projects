@@ -76,6 +76,7 @@ Which regions contribute the most to total revenue?
 Where should management focus attention this week?
 How do store sizes and locations impact performance?
 </br>
+
 💼 <b> Business Impact </b>
 
 This solution transformed RetailCo’s reporting process from slow, reactive Excel reporting to real‑time, insight‑driven decision‑making. By replacing manual updates with automated Power BI dashboards, leadership and store managers can now:
