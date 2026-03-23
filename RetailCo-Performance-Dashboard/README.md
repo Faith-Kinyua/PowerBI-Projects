@@ -14,7 +14,9 @@ This dashboard provides leadership with a high‑level view of company performan
 </br>
 
 <b> Key Metrics </b>
+
 Revenue: $5bn
+
 Profit: $1bn
 Quantity Sold: 38K
 Growth: 6–7% vs last month, 230%+ vs last year
