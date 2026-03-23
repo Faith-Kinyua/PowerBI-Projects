@@ -18,23 +18,31 @@ This dashboard provides leadership with a high‑level view of company performan
 Revenue: $5bn
 
 Profit: $1bn
+
 Quantity Sold: 38K
+
 Growth: 6–7% vs last month, 230%+ vs last year
 
-<> What This Dashboard Answers </b>
+<b> What This Dashboard Answers </b>
+
 <b> How are we performing right now? </b>
+
 <b> Which products drive or drag performance? </b>
 Top: LG 65” TV – $138M
 Bottom: Toaster 4‑Slice – $2.4M
+
 <b> Which stores contribute the most? </b>
 Lagos: $1.424bn
 FCT: $1.197bn
+
 <b> Are sales reps hitting their targets? </b>
 Adebayo Ogunlesi: $313M (156%)
 Chioma Nwankwo: $302M (150%)
+
 <b> Where is corrective action needed? </b>
 Lagos: 47% target achievement
 Kano: 44%
+
 <b> How do discounts affect revenue? </b>
 A Revenue vs Discounts visual highlights how pricing decisions influence performance.
 </br>
@@ -46,23 +54,29 @@ This dashboard focuses on operational efficiency, helping regional managers and 
 <img width="853" height="488" alt="Store Performance" src="https://github.com/user-attachments/assets/78d9439b-692d-40bf-b15c-730a2fb7cc02" />
 
 </br>
-What This Dashboard Shows
+,b> What This Dashboard Shows </b>
+
 <b> Store Revenue Contribution </b>
 Lagos: $1.424bn
 FCT: $1.197bn
+
 <b> Target Achievement </b>
 Lagos: 47%
 Kano: 44%
+
 <b> State‑Level Performance </b>  
 Clear visibility into which regions are driving growth and which need support.
+
 <b> Key Questions Answered </b>
 Which stores are meeting or missing their monthly targets?
 Which regions contribute the most to total revenue?
 Where should management focus attention this week?
 How do store sizes and locations impact performance?
-
+</br>
 💼 <b> Business Impact </b>
+
 This solution transformed RetailCo’s reporting process from slow, reactive Excel reporting to real‑time, insight‑driven decision‑making. By replacing manual updates with automated Power BI dashboards, leadership and store managers can now:
+
 <b> Monitor performance instantly </b>  
 No more waiting two days for Excel updates — KPIs refresh automatically, enabling same‑day action.
 
